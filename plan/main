@@ -9,7 +9,7 @@ webmin-apache
 
 python-pysqlite2
 
-python-django
+python-django=1.4.5
 libjs-jquery
 
 python-twisted          /* speeqe dependency */
